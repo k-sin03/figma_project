@@ -1,0 +1,130 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #fff2fa;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 60px;
+}
+.menu-section {
+  width: 469px;
+  height: 39px;
+  position: absolute;
+  left: 838px;
+  top: 60px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 211px;
+  top: 0px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 348px;
+  top: 0px;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 1337px;
+  position: absolute;
+  left: 77px;
+  top: 447px;
+}
+.semester-details-spring-2026 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 43px;
+}
+.professor-paul-t-shapiro {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 43px;
+}
+.teaching-assistants-bharath-sreekuma-caifu-liu-sumanth-devara {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 86px;
+}
+.hero-section {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 80px;
+  top: 211px;
+}
+.bmgt-407-information-systems-projects {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: relative;
+  width: 1334px;
+  height: 54px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-the-class-happens-on-thursdays {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 102px;
+  width: 1327px;
+  height: 86px;
+}
